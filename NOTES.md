@@ -1,3 +1,4 @@
-Sync the time series
-Look for subwatersheds on credit river website and split it
-Reading about transformers
+Read thesis
+Search for precipitation stations
+Analyse the missing values of DataFrame
+Create Google Colab
